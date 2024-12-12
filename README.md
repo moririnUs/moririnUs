@@ -1,4 +1,8 @@
-## Hi there 👋
+## About me
+### Koshiro Mori(森 恒志郎)
+### 東京都立産業技術高等専門学校 T科
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=moririnUs&show_icons=true&locale=en&layout=compact)
 
 <!--
 **moririnUs/moririnUs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
